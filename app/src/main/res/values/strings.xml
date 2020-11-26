@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ayam Geprek</string>
+    <string name="ayam_geprek">Ayam Geprek</string>
+    <string name="nama">Nama</string>
+    <string name="Nama">Nama</string>
+    <string name="pilihan_sambal">Pilihan Sambal</string>
+    <string name="sambal_tomat">Sambal Tomat</string>
+    <string name="sambal_setan">Sambal Setan</string>
+    <string name="banyaknya">Banyaknya</string>
+    <string name="hasil">Hasil :</string>
+    <string name="order">ORDER</string>
+    <string name="share">SHARE</string>
+</resources>
